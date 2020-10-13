@@ -1,5 +1,7 @@
 # LeaderBoard 30days of Google Cloud
 
+* Have a look at demo [here](https://dscleaderboard.netlify.app/)
+
 This LeaderBoard is made for [30days of Google Cloud Program](https://events.withgoogle.com/30daysofgooglecloud/)
 
 This will scrapes the data from Qwiklabs Public URL and then rank's them according to the program 
