@@ -16,7 +16,12 @@ body {
 	min-height: 100vh;
 	margin: 0;
 }
+ul{
+	padding-inline-start: 0px;
+	
 
+
+}
 h3 {
 	margin: 10px 0;
 }
@@ -29,6 +34,12 @@ h6 {
 p {
 	font-size: 14px;
 	line-height: 21px;
+}
+
+.l-wrapper{
+	margin-left: 2em;
+	margin-right: 2em;
+
 }
 
 .card-container {
@@ -61,20 +72,7 @@ p {
 	padding: 7px;
 }
 
-button.primary {
-	background-color: #03BFCB;
-	border: 1px solid #03BFCB;
-	border-radius: 3px;
-	color: #231E39;
-	font-family: Montserrat, sans-serif;
-	font-weight: 500;
-	padding: 10px 25px;
-}
 
-button.primary.ghost {
-	background-color: transparent;
-	color: #02899C;
-}
 
 .skills {
 	background-color: #1F1A36;
